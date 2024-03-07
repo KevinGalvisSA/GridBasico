@@ -346,6 +346,41 @@ body{
     background: seagreen;
     grid-area: devs;
 }
+
+.item_6__texto{
+    background: red;
+}
+
+.item_6__minutos{
+    background: blue;
+}
+
+
+.item_6__iconos{
+    background: yellow;
+    display: flex;
+    flex-direction: row;
+}
+
+.item_6__iconos i{
+    font-size: 30px;
+}
+
+.item_6__arrow{
+    background: lightblue;
+    padding: 0px 5px;
+    display: flex;
+    justify-content: end;
+}
+
+.item_6__arrow i{
+    font-size: 30px;
+}
+
+
+
+
+
 .item_7{
     background: magenta;
     grid-area: product;
